@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a11b904b27da1b4a842878486dbc97b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - red: {fileID: 6250317198927764785, guid: b058a2ad9e572ea44badff72dc264821, type: 3}
+  - green: {fileID: 4255242976434123640, guid: 13b0ccdc050a49146bc0d6cde8028bb8, type: 3}
+  - yellow: {fileID: 7945126345452842276, guid: d3540d6ad4ff3fb4c837213d2540aa60,
+      type: 3}
+  - blue: {fileID: 8910375034313769820, guid: 9e6f32699a6f2104e941dfaf9b54e245, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 17821ae8f9e241c49a94ae787c039aef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _bomb: {fileID: 3249440353173917717, guid: 0f3f2d8b354ecbe4ab0d0b3f2d146196, type: 3}
+  - _oil: {fileID: 8089747051211157334, guid: c29d9f19fce5d52459883c9c40f11cdd, type: 3}
+  - _shield: {fileID: 8338712404403750392, guid: e8f5ae1d150993f458869b522c43e256,
+      type: 3}
+  - _trail: {fileID: 5032157271300230056, guid: bd02874210ec3694d8aec73d6e301257,
+      type: 3}
+  - _currentBonusView: {instanceID: 0}
+  - _bombIcon: {fileID: 21300000, guid: 512334a00b810ae4b93b63c39eaf47d6, type: 3}
+  - _oilIcon: {fileID: 21300000, guid: de86b75dcb99e1e45904b50fa108c233, type: 3}
+  - _shieldIcon: {fileID: 21300000, guid: 5d3abe1a380db5b40a153b6e9c897cd2, type: 3}
+  - _nitroIcon: {fileID: 21300000, guid: f02dec2148e2aac4bb4b189a238e849f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
